@@ -1,7 +1,5 @@
 # Awesome-Graph4TruthLLM
 
-# Awesome Graph4LLM
-
 
 ## Graph-Based Context Engineering
 
