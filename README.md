@@ -4,7 +4,7 @@
 ## Graph-Based Context Engineering
 
 <p align="center">
-  <img src="fig/context_eng_260127.pdf" alt="Graph-based context engineering" width="760">
+  <img src="fig/context.png" alt="Graph-based context engineering" width="760">
 </p>
 
 - [A Survey of Context Engineering for Large Language Models](https://arxiv.org/abs/2507.13334) - arXiv 2025
@@ -31,7 +31,7 @@
 ## Graph Priors for LLM Architectures
 
 <p align="center">
-  <img src="fig/arxiv_qa_sparsity.pdf" alt="Graph-KV and structural sparsity" width="760">
+  <img src="fig/qa.png" alt="Graph-KV and structural sparsity" width="760">
 </p>
 
 - [MInference 1.0: Accelerating Pre-Filling for Long-Context LLMs via Dynamic Sparse Attention](https://arxiv.org/abs/2407.02490) - NeurIPS 2024
@@ -77,7 +77,7 @@
 ## Graph-Centric Trust and Safety
 
 <p align="center">
-  <img src="fig/LLM_graph_trust_safety.pdf" alt="Graph view of internal knowledge in LLMs for trust and safety" width="760">
+  <img src="fig/trust_safety.png" alt="Graph view of internal knowledge in LLMs for trust and safety" width="760">
 </p>
 
 - [Who's Harry Potter? Approximate Unlearning for LLMs](https://arxiv.org/abs/2310.02238) - arXiv 2023
